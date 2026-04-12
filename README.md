@@ -58,6 +58,6 @@ If you want to replace them with downloaded PNG, JPG, or SVG laptop assets:
 - Graceful API loading and error states
 
 ## Live demo & GitHub Repository
-1. Click ![Live Demo]() to get the live preview of the website.
+1. Click [Live Demo]() to get the live preview of the website.
 <br>
-2. Click ![Github Repository](https://github.com/josephgakono/Laptop-configurator) to get the repository.
+2. Click [Github Repository](https://github.com/josephgakono/Laptop-configurator) to get the repository.
